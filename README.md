@@ -1,4 +1,4 @@
-# Obkect Detection System
+Object Detection System
 
 A full-stack, real-time surveillance platform that streams live video, performs object detection using YOLOv8, and logs detection events using a dual-database architecture.
 
@@ -6,8 +6,9 @@ A full-stack, real-time surveillance platform that streams live video, performs 
 
 ## Demo
 
-[![Dashboard](https://raw.githubusercontent.com/Sanket-x/Object-Detection-System/main/assets/dashboard.png)
-![History](https://raw.githubusercontent.com/Sanket-x/Object-Detection-System/main/assets/history.png)](https://github.com/Sanket-x/Object-Detection-System/edit/main/README.md)
+![Dashboard](./assets/Dashboard.png)
+![History](./assets/History.png)
+
 ---
 
 ## Overview
@@ -126,4 +127,3 @@ npm run dev
 ## Author
 
 Sanket-x
-
