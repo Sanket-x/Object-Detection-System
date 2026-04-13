@@ -6,9 +6,8 @@ A full-stack, real-time surveillance platform that streams live video, performs 
 
 ## Demo
 
-![Dashboard](./assets/dashboard.png)
-![History](./assets/history.png)
-
+![Dashboard](https://raw.githubusercontent.com/Sanket-x/Object-Detection-System/main/assets/dashboard.png)
+![History](https://raw.githubusercontent.com/Sanket-x/Object-Detection-System/main/assets/history.png)
 ---
 
 ## Overview
