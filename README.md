@@ -5,6 +5,8 @@ A full-stack, real-time surveillance platform that streams live video, performs 
 ---
 
 ## Demo
+![Dashboard](./assets/dash.png)
+![History](./assets/history.png)
 
 
 ---
