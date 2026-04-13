@@ -1,0 +1,33 @@
+# Environments
+venv/
+backend/venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Node
+node_modules/
+dist/
+build/
+.npm
+package-lock.json
+
+# Model Weights
+*.pt
+*.onnx
+
+# Database
+database/*.db
+*.sqlite3
+
+# Media/Logs
+backend/snapshots/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
